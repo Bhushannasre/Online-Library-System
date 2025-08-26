@@ -73,8 +73,8 @@ src/
 
 ▶️ Getting Started
 1. Clone the repo
-git clone https://github.com/your-username/online-library.git
-cd online-library
+git clone https://github.com/Bhushannasre/Online-Library-System.git
+cd online-library-System
 
 2. Install dependencies
 npm install
